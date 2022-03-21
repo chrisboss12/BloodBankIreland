@@ -1,0 +1,7 @@
+{
+  "name": "BloodBankIreland",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,14 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "BloodBankIreland",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"GoogleAuth": {
+		"scopes": [
+		  "profile",
+		  "email"
+		],
+		"serverClientId": "1029987560441-86vrjmnbdk64smhpcpphn2he0kip1cem.apps.googleusercontent.com",
+		"forceCodeForRefreshToken": true
+	  }
+}
